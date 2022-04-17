@@ -22,7 +22,7 @@ export default function App() {
         <MeuComponente />
         <MeuComponente />
         <MeuComponente />
-      </ScrollView>''
+      </ScrollView>
     </View>
   );
 }
