@@ -1,0 +1,124 @@
+{
+  "professores": [
+    {
+      "id": 1,
+      "login": "mfreire",
+      "name": "Murilo Freire",
+      "email": "murilo@email.com"
+    },
+    {
+      "id": 2,
+      "login": "exavier",
+      "name": "Eduardo Xavier",
+      "email": "xavier@email.com"
+    },
+    {
+      "id": 3,
+      "login": "poliveira",
+      "name": "Paschoal Oliveira",
+      "email": "paschoal@email.com"
+    },
+    {
+      "id": 4,
+      "login": "rpuyau",
+      "name": "Rafael Puyau",
+      "email": "rafael@email.com"
+    }
+  ],
+  "monitores": [
+    {
+      "id": 1,
+      "login": "rnunes",
+      "name": "Rafael Nunes",
+      "email": "nunes@email.com"
+    },
+    {
+      "id": 2,
+      "login": "matheus",
+      "name": "Matheus",
+      "email": "matheus@email.com"
+    },
+    {
+      "id": 3,
+      "login": "nanda",
+      "name": "Fernanda Rabaçal",
+      "email": "fernanda@email.com"
+    },
+    {
+      "id": 4,
+      "login": "mazevedo",
+      "name": "Marcus Azevedo",
+      "email": "marcus@email.com"
+    }
+  ],
+  "modulos": [
+    {
+      "id": 1,
+      "name": "Lógica de Programação"
+    },
+    {
+      "id": 2,
+      "name": "Python"
+    },
+    {
+      "id": 3,
+      "name": "HTML 5"
+    },
+    {
+      "id": 4,
+      "name": "CSS 3"
+    },
+    {
+      "id": 5,
+      "name": "Javascript"
+    },
+    {
+      "id": 6,
+      "name": "React Native"
+    }
+  ],
+  "turmas": [
+    {
+      "cod": "215A",
+      "day": "Segunda-feira",
+      "start time": 15,
+      "end time": 18
+    },
+    {
+      "cod": "319A",
+      "day": "Terça-feira",
+      "start time": 19,
+      "end time": 22
+    },
+    {
+      "cod": "619A",
+      "day": "Sexta-feira",
+      "start time": 19,
+      "end time": 22
+    },
+    {
+      "cod": "713",
+      "day": "Sábado",
+      "start time": 13,
+      "end time": 18
+    },
+    {
+      "cod": "2419",
+      "day": "Segunda-feira e Quarta-feira",
+      "start time": 19,
+      "end time": 22
+    },
+    {
+      "cod": "707A",
+      "day": "Sábado",
+      "start time": 8,
+      "end time": 13
+    },
+    {
+      "cod": "108A",
+      "day": "Domingo",
+      "start time": 8,
+      "end time": 13
+    }
+  ]
+}
