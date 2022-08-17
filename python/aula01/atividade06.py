@@ -12,3 +12,4 @@ data_atual = datetime.today().now()
 dias = data_atual - conv_data
 
 print(f'{datetime.strftime(conv_data, "%d/%m/%Y")} ocorreu há {dias.days} dias atrás')
+3
